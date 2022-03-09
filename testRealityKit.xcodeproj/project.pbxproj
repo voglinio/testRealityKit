@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A142D6C127D13F0D00C4B797 /* Boat-paddle.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A142D6BE27D13F0C00C4B797 /* Boat-paddle.usdz */; };
+		A142D6C227D13F0D00C4B797 /* phillips.arobject in Resources */ = {isa = PBXBuildFile; fileRef = A142D6BF27D13F0D00C4B797 /* phillips.arobject */; };
+		A142D6C327D13F0D00C4B797 /* skeletos.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A142D6C027D13F0D00C4B797 /* skeletos.usdz */; };
 		A197A64827C7DC7100BB2B50 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A197A64727C7DC7100BB2B50 /* AppDelegate.swift */; };
 		A197A64A27C7DC7100BB2B50 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A197A64927C7DC7100BB2B50 /* ViewController.swift */; };
 		A197A64C27C7DC7100BB2B50 /* Experience.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = A197A64B27C7DC7100BB2B50 /* Experience.rcproject */; };
@@ -15,6 +18,19 @@
 		A197A65427C7DC7400BB2B50 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A197A65227C7DC7400BB2B50 /* LaunchScreen.storyboard */; };
 		A197A65F27C7DC7400BB2B50 /* testRealityKitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A197A65E27C7DC7400BB2B50 /* testRealityKitTests.swift */; };
 		A197A66A27C7DC7400BB2B50 /* testRealityKitUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A197A66927C7DC7400BB2B50 /* testRealityKitUITests.swift */; };
+		A197A67E27C827AE00BB2B50 /* 02.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A197A67A27C827AB00BB2B50 /* 02.usdz */; };
+		A197A67F27C827AE00BB2B50 /* 01.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A197A67B27C827AC00BB2B50 /* 01.usdz */; };
+		A197A68027C827AE00BB2B50 /* 03.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A197A67C27C827AC00BB2B50 /* 03.usdz */; };
+		A197A68127C827AE00BB2B50 /* 04.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A197A67D27C827AE00BB2B50 /* 04.usdz */; };
+		A197A68627C82BCB00BB2B50 /* 05.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A197A68527C82BCB00BB2B50 /* 05.usdz */; };
+		A1B5B30B27D2755B00541378 /* boat.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A1B5B30827D2755A00541378 /* boat.usdz */; };
+		A1B5B30C27D2755B00541378 /* koupi.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A1B5B30927D2755A00541378 /* koupi.usdz */; };
+		A1B5B30D27D2755B00541378 /* katarti.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A1B5B30A27D2755B00541378 /* katarti.usdz */; };
+		A1B5B31527D3597800541378 /* aiva.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A1B5B31427D3597800541378 /* aiva.mp3 */; };
+		A1B5B32327D37FF100541378 /* otherScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B5B32227D37FF100541378 /* otherScene.swift */; };
+		A1B5B32827D3C81B00541378 /* Landmark.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B5B32727D3C81B00541378 /* Landmark.swift */; };
+		A1B5B33027D3C8BB00541378 /* Modeldata.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B5B32F27D3C8BB00541378 /* Modeldata.swift */; };
+		A1B5B33527D3C8C800541378 /* landmarkData.json in Resources */ = {isa = PBXBuildFile; fileRef = A1B5B33427D3C8C800541378 /* landmarkData.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +51,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		A142D6BE27D13F0C00C4B797 /* Boat-paddle.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = "Boat-paddle.usdz"; sourceTree = "<group>"; };
+		A142D6BF27D13F0D00C4B797 /* phillips.arobject */ = {isa = PBXFileReference; lastKnownFileType = file; path = phillips.arobject; sourceTree = "<group>"; };
+		A142D6C027D13F0D00C4B797 /* skeletos.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = skeletos.usdz; sourceTree = "<group>"; };
 		A197A64427C7DC7100BB2B50 /* testRealityKit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = testRealityKit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A197A64727C7DC7100BB2B50 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A197A64927C7DC7100BB2B50 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -49,6 +68,19 @@
 		A197A66527C7DC7400BB2B50 /* testRealityKitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testRealityKitUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A197A66927C7DC7400BB2B50 /* testRealityKitUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testRealityKitUITests.swift; sourceTree = "<group>"; };
 		A197A66B27C7DC7400BB2B50 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A197A67A27C827AB00BB2B50 /* 02.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = 02.usdz; sourceTree = "<group>"; };
+		A197A67B27C827AC00BB2B50 /* 01.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = 01.usdz; sourceTree = "<group>"; };
+		A197A67C27C827AC00BB2B50 /* 03.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = 03.usdz; sourceTree = "<group>"; };
+		A197A67D27C827AE00BB2B50 /* 04.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = 04.usdz; sourceTree = "<group>"; };
+		A197A68527C82BCB00BB2B50 /* 05.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = 05.usdz; sourceTree = "<group>"; };
+		A1B5B30827D2755A00541378 /* boat.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = boat.usdz; sourceTree = "<group>"; };
+		A1B5B30927D2755A00541378 /* koupi.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = koupi.usdz; sourceTree = "<group>"; };
+		A1B5B30A27D2755B00541378 /* katarti.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = katarti.usdz; sourceTree = "<group>"; };
+		A1B5B31427D3597800541378 /* aiva.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = aiva.mp3; sourceTree = "<group>"; };
+		A1B5B32227D37FF100541378 /* otherScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = otherScene.swift; sourceTree = "<group>"; };
+		A1B5B32727D3C81B00541378 /* Landmark.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Landmark.swift; sourceTree = "<group>"; };
+		A1B5B32F27D3C8BB00541378 /* Modeldata.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Modeldata.swift; sourceTree = "<group>"; };
+		A1B5B33427D3C8C800541378 /* landmarkData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = landmarkData.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +131,19 @@
 		A197A64627C7DC7100BB2B50 /* testRealityKit */ = {
 			isa = PBXGroup;
 			children = (
+				A1B5B33427D3C8C800541378 /* landmarkData.json */,
+				A197A67B27C827AC00BB2B50 /* 01.usdz */,
+				A197A67A27C827AB00BB2B50 /* 02.usdz */,
+				A197A68527C82BCB00BB2B50 /* 05.usdz */,
+				A142D6BE27D13F0C00C4B797 /* Boat-paddle.usdz */,
+				A142D6BF27D13F0D00C4B797 /* phillips.arobject */,
+				A142D6C027D13F0D00C4B797 /* skeletos.usdz */,
+				A1B5B30827D2755A00541378 /* boat.usdz */,
+				A1B5B31427D3597800541378 /* aiva.mp3 */,
+				A1B5B30A27D2755B00541378 /* katarti.usdz */,
+				A1B5B30927D2755A00541378 /* koupi.usdz */,
+				A197A67C27C827AC00BB2B50 /* 03.usdz */,
+				A197A67D27C827AE00BB2B50 /* 04.usdz */,
 				A197A64727C7DC7100BB2B50 /* AppDelegate.swift */,
 				A197A64927C7DC7100BB2B50 /* ViewController.swift */,
 				A197A64B27C7DC7100BB2B50 /* Experience.rcproject */,
@@ -106,6 +151,9 @@
 				A197A65027C7DC7400BB2B50 /* Assets.xcassets */,
 				A197A65227C7DC7400BB2B50 /* LaunchScreen.storyboard */,
 				A197A65527C7DC7400BB2B50 /* Info.plist */,
+				A1B5B32227D37FF100541378 /* otherScene.swift */,
+				A1B5B32727D3C81B00541378 /* Landmark.swift */,
+				A1B5B32F27D3C8BB00541378 /* Modeldata.swift */,
 			);
 			path = testRealityKit;
 			sourceTree = "<group>";
@@ -231,9 +279,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A1B5B30D27D2755B00541378 /* katarti.usdz in Resources */,
+				A197A68627C82BCB00BB2B50 /* 05.usdz in Resources */,
+				A142D6C127D13F0D00C4B797 /* Boat-paddle.usdz in Resources */,
+				A197A68027C827AE00BB2B50 /* 03.usdz in Resources */,
 				A197A65427C7DC7400BB2B50 /* LaunchScreen.storyboard in Resources */,
+				A197A67F27C827AE00BB2B50 /* 01.usdz in Resources */,
+				A197A68127C827AE00BB2B50 /* 04.usdz in Resources */,
+				A1B5B30C27D2755B00541378 /* koupi.usdz in Resources */,
+				A197A67E27C827AE00BB2B50 /* 02.usdz in Resources */,
 				A197A65127C7DC7400BB2B50 /* Assets.xcassets in Resources */,
+				A142D6C227D13F0D00C4B797 /* phillips.arobject in Resources */,
+				A1B5B31527D3597800541378 /* aiva.mp3 in Resources */,
+				A142D6C327D13F0D00C4B797 /* skeletos.usdz in Resources */,
+				A1B5B33527D3C8C800541378 /* landmarkData.json in Resources */,
 				A197A64F27C7DC7100BB2B50 /* Main.storyboard in Resources */,
+				A1B5B30B27D2755B00541378 /* boat.usdz in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,8 +320,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				A197A64A27C7DC7100BB2B50 /* ViewController.swift in Sources */,
+				A1B5B32827D3C81B00541378 /* Landmark.swift in Sources */,
 				A197A64827C7DC7100BB2B50 /* AppDelegate.swift in Sources */,
 				A197A64C27C7DC7100BB2B50 /* Experience.rcproject in Sources */,
+				A1B5B32327D37FF100541378 /* otherScene.swift in Sources */,
+				A1B5B33027D3C8BB00541378 /* Modeldata.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

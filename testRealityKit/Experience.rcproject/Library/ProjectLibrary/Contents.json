@@ -1,3 +1,57 @@
 [
-
+  {
+    "libraryIdentifier" : "a6dad719e336988c09b5073898f3406e",
+    "format" : "model",
+    "displayName" : "cannon3-2.usdz"
+  },
+  {
+    "libraryIdentifier" : "4db2adc34c9f638edd7f0b47822f6467",
+    "format" : "model",
+    "displayName" : "bang.usdz"
+  },
+  {
+    "libraryIdentifier" : "306c0355ca5004fa3803818a68792dbb",
+    "format" : "audio",
+    "displayName" : "Explosion.mp3"
+  },
+  {
+    "libraryIdentifier" : "d4ad21d32cb057fb17b64c1372efa9c5",
+    "format" : "arObject",
+    "displayName" : "phillips.arobject"
+  },
+  {
+    "libraryIdentifier" : "59ba6f392dce4984fda5359944c74b07",
+    "format" : "model",
+    "displayName" : "Boat-paddle.usdz"
+  },
+  {
+    "libraryIdentifier" : "85c8dd0d537263257c3ec020db0885bb",
+    "format" : "model",
+    "displayName" : "skeletos.usdz"
+  },
+  {
+    "libraryIdentifier" : "208b82921a9d8592cb9b5d0459e770af",
+    "format" : "model",
+    "displayName" : "boat.usdz"
+  },
+  {
+    "libraryIdentifier" : "350d431883c76f8d5028cfd58b483537",
+    "format" : "model",
+    "displayName" : "katarti.usdz"
+  },
+  {
+    "libraryIdentifier" : "33ffa5ad790604ff7dc1d04aca3bbefd",
+    "format" : "model",
+    "displayName" : "koupi.usdz"
+  },
+  {
+    "libraryIdentifier" : "bb46b331decdb4f5881a603f430b4156",
+    "format" : "audio",
+    "displayName" : "aiva.caf"
+  },
+  {
+    "libraryIdentifier" : "8bbeec1e7f4f0a2a136e5bcc70848f07",
+    "format" : "audio",
+    "displayName" : "hello.caf"
+  }
 ]
